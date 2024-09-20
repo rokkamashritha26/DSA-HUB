@@ -130,9 +130,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Name - [Aditya Chauhan](https://www.linkedin.com/in/aditya-2703) - adityachauhan2703@gmail.com
+Name - [Rokkam Ashritha](https://www.linkedin.com/in/rokkam-ashritha2622004) - rokkamashritha@gmail.com
 
-Project Link: [https://github.com/aditya-2703/DSA-HUB](https://github.com/aditya-2703/DSA-HUB)
+Project Link: [https://github.com/rokkamashritha26/DSA-HUB](https://github.com/rokkamashritha26/DSA-HUB)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
